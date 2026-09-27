@@ -1,0 +1,6 @@
+Open Source Documentation Project
+
+This directory contains the source files of the project.
+
+The repository documentation explains installation,
+contribution, issue reporting, and development conventions.
